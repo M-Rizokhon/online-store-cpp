@@ -1,4 +1,3 @@
-cat > README.md << EOL
 # C++ Online Store
 
 This is a C++ console application simulating an online store with Admin, Seller, and Buyer roles. Built to explore object-oriented programming and file handling, it lets users manage products, shop, and check out. It’s a learning project, not for production use.
@@ -49,4 +48,4 @@ MIT License (see [LICENSE](LICENSE)).
 
 ## Feedback
 I built this to learn C++ and e-commerce concepts. Open an issue if you have suggestions or find bugs. Thanks for checking it out!
-EOL
+
