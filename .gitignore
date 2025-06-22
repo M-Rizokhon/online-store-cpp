@@ -1,0 +1,13 @@
+# Ignore generated files
+*.txt
+*.exe
+*.out
+*.o
+*.obj
+# Ignore IDE-specific files
+.vscode/
+*.sln
+*.vcxproj
+# Ignore build directories
+build/
+bin/
